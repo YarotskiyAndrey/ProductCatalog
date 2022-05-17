@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Product Catalog</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_unknown_exception">Unknown error</string>
+    <string name="link_image">http://images1.opticsplanet.com/120-90-ffffff/%s.jpg</string>
+    <string name="link_large_image">http://images1.opticsplanet.com/365-240-ffffff/%s.jpg</string>
+    <string name="activity_title_category">Categories</string>
+    <string name="title_home_event">Navigate home</string>
+</resources>
